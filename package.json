@@ -36,7 +36,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "lodash": "^4.17.2",
-    "moment": "^2.16.0",
+    "moment": "^2.17.1",
     "react": "^15.4.0",
     "react-body-class": "git+https://github.com/ryelle/react-body-class.git",
     "react-document-meta": "^2.0.3",
